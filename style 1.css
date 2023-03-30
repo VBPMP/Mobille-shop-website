@@ -1,0 +1,25 @@
+ body{
+     background-color: #EDF1D6;
+  }
+  hr{
+   background-color:grey;
+    border-style: none;
+    height:2px;
+    width: 100%;
+        }
+     h1{
+       color: #66BFBF;
+     }
+     h3{
+        color: #66BFBF;
+     }
+     img{
+      background-color: chartreuse;
+      border-radius: 100%;
+     }
+   #Name
+   {
+      color: black;
+   }
+     
+     
